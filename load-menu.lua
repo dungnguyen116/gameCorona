@@ -2,7 +2,7 @@ local composer = require("composer")
 local scene = composer.newScene()
 
 local widget = require("widget")
-local explosionSound = audio.loadSound( "assets/audio/main/soundtrack.wma" )
+local explosionSound = audio.loadSound( "assets/audio/main/soundtrack.wav" )
 local dog
 local background, bg1, bg2, bg3
 
